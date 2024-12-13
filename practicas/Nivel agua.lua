@@ -30,4 +30,4 @@ local function on_set_command(msg)
 end
 
 hook_chat_command("waterset", "Configurar los dos primeros niveles de agua", on_set_command)
-hook_chat_command("waterget", "para obtener los dos primeros niveles de agua", on_get_command
+hook_chat_command("waterget", "para obtener los dos primeros niveles de agua", on_get_command)
