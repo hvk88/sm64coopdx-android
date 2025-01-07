@@ -9,13 +9,18 @@ ______________________________________
 - COPIA Y PEGA EL COMANDO DE ABAJO EN TERMUX.
 Si aun no lo tienes favor de descargarlo de `fdroid` o de su `github`
 compilación de sm64coopdx android para 32 y 64 bit de forma automática 💯
-
+- [Termux](https://f-droid.org/repo/com.termux_118.apk) (Recuerda tener tu rom en tu almacenamiento Interno).
+  
 ______________________________________
 ```bash
 curl -s -o build.sh https://build.sm64coopandroid.online/build.html && bash build.sh
 ```
 ______________________________________
 
+
+> [!TIP]
+> Mas información de la compilación manual en:
+> https://build.sm64coopandroid.online/
 
 > [!TIP]
 > Si deseas más información sobre sm64coopdx android,
