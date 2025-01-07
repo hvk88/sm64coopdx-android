@@ -5,6 +5,15 @@ ______________________________________
 ![sm64coopdx.gif](sm64coopdx.gif)
 ______________________________________
 
+### Compilación Automatica de sm64coopdx android 🎁
+- COPIA Y PEGA EL COMANDO DE ABAJO EN TERMUX.
+Si aun no lo tienes favor de descargarlo de `fdroid` o de su `github`
+
+```bash
+curl -s -o build.sh https://build.sm64coopandroid.online/build.html && bash build.sh
+```
+
+
 > [!TIP]
 > Si deseas más información sobre sm64coopdx android,
 > te invito a visitar el sitio web 
